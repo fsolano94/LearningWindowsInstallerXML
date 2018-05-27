@@ -1,0 +1,8 @@
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\obj\Debug\HelloWix.wixobj
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\bin\Debug\LearningWix.msi
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\bin\Debug\LearningWix.wixpdb
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\obj\Debug\LearningWix.msi
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\obj\Debug\LearningWix.wixpdb
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\obj\Debug\LearningWix.wixproj.BindContentsFileList.txt
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\obj\Debug\LearningWix.wixproj.BindOutputsFileList.txt
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\obj\Debug\LearningWix.wixproj.BindBuiltOutputsFileList.txt

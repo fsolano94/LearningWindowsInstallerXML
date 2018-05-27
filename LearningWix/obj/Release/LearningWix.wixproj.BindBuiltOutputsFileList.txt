@@ -1,0 +1,2 @@
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\obj\Release\LearningWix.msi
+C:\Users\fsola\Documents\Development\C#\Wix\LearningWix\LearningWix\obj\Release\LearningWix.wixpdb
